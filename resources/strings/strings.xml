@@ -1,0 +1,67 @@
+<strings>
+	<string id="AppName">KJ OTF</string>
+	<string id="AppDescription">High Intensity Interval Training Tracking</string>
+	<string id="AppVersionLabel">Version</string>
+	
+	<string id="yes">Yes</string>
+	<string id="no">No</string>
+	<string id="percent">%</string>
+	<string id="resume_workout">Resume</string>
+	<string id="save_workout">Save</string>
+	<string id="discard_workout">Discard</string>
+	
+	<string id="ActivityTypeLabel">Activity Type</string>
+	<string id="ActivityTypePrompt">Select the Activity Type</string>
+	<string id="ActivitySubTypeLabel">Activity Sub-type</string>
+	<string id="ActivitySubTypePrompt">Select the Activity Sub-type</string>
+	<string id="AllowVibrationLabel">Allow Vibration</string>
+	<string id="HRStabilityLabel">HR Stabilizer</string>
+
+	<string id="hiit_training">HIIT Training</string>
+	
+	<string id="activity_default">Default</string>
+	<string id="activity_manual">Manual</string>
+	<string id="activity_running">Running</string>
+	<string id="activity_walking">Walking</string>
+	<string id="activity_rowing">Rowing</string>
+	<string id="activity_cycling">Cycling</string>
+	<string id="activity_training">Training</string>
+	<string id="activity_sub_cardio">Cardio</string>
+	<string id="activity_sub_strength">Strength</string>
+	<string id="activity_sub_flexibility">Flexibility</string>
+	
+	<string id="star_label">Splat Points</string>
+    <string id="star_units">pts</string>
+
+	<string id="start_session_no_hr">No HR Detected, Start Anyway?</string>
+    <string id="start_workout">START BURNING!</string>
+    
+    <string id="StatusBar_time">00:00</string>
+    <string id="StatusBar_hr">-</string>
+    
+    <string id="Workout_timer">00:00</string>
+    <string id="Workout_hr_bpm">200</string>
+    <string id="Workout_hr_pct">100</string>
+    <string id="Workout_calories">1500</string>
+    <string id="Workout_pace">0:00</string>
+    <string id="Workout_distance">0.0</string>
+    <string id="Workout_speed">0.0</string>
+    <string id="Workout_splat">99</string>
+    
+    <string id="Summary_tz1">0</string>
+    <string id="Summary_tz2">0</string>
+    <string id="Summary_tz3">0</string>
+    <string id="Summary_tz4">0</string>
+    <string id="Summary_tz5">0</string>
+    
+    <string id="Summary_time">Time:</string>
+    <string id="Summary_time_val">00:00</string>    
+    <string id="Summary_calories">Calories:</string>
+    <string id="Summary_calories_val">0</string>    
+    <string id="Summary_splat">Star Points:</string>
+    <string id="Summary_splat_val">0</string>
+    <string id="Summary_avgHR">Avg. HR:</string>
+    <string id="Summary_maxHR">Max. HR:</string>
+    <string id="Summary_avgHR_val">0</string>
+    <string id="Summary_maxHR_val">0</string>
+</strings>

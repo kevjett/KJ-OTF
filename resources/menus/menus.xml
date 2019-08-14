@@ -1,0 +1,33 @@
+<menus>
+	<menu id="MainMenu">
+		<menu-item id="ActivityType" label="@Strings.ActivityTypeLabel"></menu-item>
+		<menu-item id="AllowVibration" label="@Strings.AllowVibrationLabel"></menu-item>
+		<menu-item id="HRStability" label="@Strings.HRStabilityLabel"></menu-item>
+	</menu>
+	<menu id="ActivityTypeMenu">
+		<menu-item id="activity_default" label="@Strings.activity_default"></menu-item>
+		<menu-item id="activity_training" label="@Strings.activity_training"></menu-item>
+		<menu-item id="activity_running" label="@Strings.activity_running"></menu-item>
+		<menu-item id="activity_walking" label="@Strings.activity_walking"></menu-item>
+		<menu-item id="activity_rowing" label="@Strings.activity_rowing"></menu-item>
+		<menu-item id="activity_cycling" label="@Strings.activity_cycling"></menu-item>
+	</menu>
+	<menu id="ActivitySubTypeMenu">
+		<menu-item id="activity_sub_cardio" label="@Strings.activity_sub_cardio"></menu-item>
+		<menu-item id="activity_sub_strength" label="@Strings.activity_sub_strength"></menu-item>
+		<menu-item id="activity_sub_flexibility" label="@Strings.activity_sub_flexibility"></menu-item>
+	</menu>
+	<menu id="AllowVibrationMenu">
+		<menu-item id="VibrationOn" label="@Strings.yes"></menu-item>
+		<menu-item id="VibrationOff" label="@Strings.no"></menu-item>
+	</menu>
+	<menu id="HRStabilityMenu">
+		<menu-item id="HRStabilityOn" label="@Strings.yes"></menu-item>
+		<menu-item id="HRStabilityOff" label="@Strings.no"></menu-item>
+	</menu>
+	<menu id="EndWorkoutMenu">
+	    <menu-item id="resume" label="@Strings.resume_workout"></menu-item>
+	    <menu-item id="save" label="@Strings.save_workout"></menu-item>
+	    <menu-item id="discard" label="@Strings.discard_workout"></menu-item>
+	</menu>
+</menus>
